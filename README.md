@@ -1,1 +1,1 @@
-#  Golang CI/CD with GitHub Actions)
+#  Golang CI/CD with GitHub Actions
