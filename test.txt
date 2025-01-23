@@ -1,1 +1,1 @@
-this is example of ci/cd :)
+this is example of ci/cd
